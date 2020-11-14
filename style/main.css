@@ -45,7 +45,7 @@ header .logo{
 
 .filme-principal{
     font-size: 16px;
-    background-image: url(img/capa-dear.jpg);
+    background-image: url(../img/capa-dear.jpg);
     background-color: transparent;
     height: 400px;
     background-size: cover;  
